@@ -123,17 +123,16 @@ Planned progression:
 
 ## 🏁 License
 
-Released under the **MIT License** — see [LICENSE](LICENSE) for details.
+Released under the MIT License. See LICENSE file for details.
 
-**Copyright (c) 2025 Tibor Kalmár**
+Copyright (c) 2025 Tibor Kalmár
 
-> _Supplemental Notice (AI-Assisted Content Disclaimer)_  
-> This repository was developed and written with the assistance of large language models (LLMs).  
-> While the author has reviewed and edited the material, it may contain factual,  
-> technical, or linguistic inaccuracies.  
-> All content is provided for educational and research purposes only and  
-> should not be considered professional or authoritative advice.  
-> Users are encouraged to independently verify information before applying it in production.
+---
+Supplemental Notice — AI-Assisted Content Disclaimer
+This repository includes material developed with assistance from large language models (LLMs).
+All content has been reviewed and edited by the author, but may still contain factual or linguistic inaccuracies.
+The material is provided for educational and research purposes only and should not be relied upon as professional advice.
+
 
 ---
 
